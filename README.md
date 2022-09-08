@@ -1,6 +1,7 @@
 ### 👋 Hello there 👋
 
 - 🤔 Think Different
+- 🌍 Trying to make a dent in the universe 
 - 🌱 I’m currently learning Mobile Application Development
 - 🔭 I’m currently working on IOS Development
 - 👯 I’m looking to collaborate on Mobile Application Development Projects
