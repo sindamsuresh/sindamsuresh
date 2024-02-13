@@ -1,23 +1,62 @@
-### 👋 Hello there 👋
+# 👨‍💻 Suresh's GitHub Profile
 
-- 🤔 Think Different
-- 🌍 Trying to make a dent in the universe 
-- 🌱 I Have 5 years of experience in IOS App Developement
-- 🔭 I’m currently working on IOS Development
-- 👯 I’m looking to collaborate on Mobile Application Development Projects
-- 💬 Ask me about Swift, JavaScript,React Native
+## Professional Summary
 
-<!--
-**sindamsuresh/sindamsuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior iOS Developer with hands-on experience**
 
-Here are some ideas to get you started:
+Passionate about crafting seamless user experiences and pushing the boundaries of iOS development. I specialize in Objective-C, Swift, and SwiftUI, creating robust and user-friendly apps. My journey in the iOS ecosystem has been marked by continuous learning and a commitment to delivering high-quality software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:**
+  - Swift
+  - Objective-C
+  - Java
+  - JavaScript
+  - TypeScript
+  - Python
+
+- **Frameworks:**
+  - UIKit
+  - SwiftUI
+  - Combine
+  - Core Animation
+  - Cocoa Touch
+  - Core Data
+  - Core Graphics
+  - Core Location
+  - XCTest
+  - XCUITest
+
+- **Databases:**
+  - Core Data
+  - MySQL
+  - Firebase
+
+- **CI/CD Tool:**
+  - XCode Cloud
+  - Fastlane
+  - TestFlight
+
+- **Version Control & Software Tools:**
+  - Git
+  - Bitbucket
+  - SVN
+  - XCode
+  - Android Studio
+  - Visual Studio Code
+  - JIRA
+
+- **Additional Skills:**
+  - Cross-Platform Development (React Native)
+  - UI/UX Design (Figma)
+  - Unity3D
+
+
+## 🌱 What I'm Currently Learning
+
+Always up for a challenge! Currently diving into SwiftUI to expand my skill set.
+
+## 📬 Let's Connect!
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sureshsindam/)
